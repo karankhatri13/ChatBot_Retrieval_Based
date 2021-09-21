@@ -20,3 +20,18 @@ technology, solely deliver predefined responses and do not
 generate fresh output. From a database of predefined
 responses, the chatbot is trained to offer the best possible
 response. The responses are based on previously collected data.
+
+#Intent_Classification
+
+Intent recognition is a form of natural language processing
+(NLP), a subfield of artificial intelligence. Natural language
+processing (NLP) and analysis is concerned with computers
+processing and analyzing natural language, that is, any
+language that has evolved naturally rather than artificially, such
+as computer coding languages.
+
+Intent classification or intent recognition is the task of taking a
+written or spoken input, and classifying it based on what the
+user wants to achieve. Intent recognition forms an essential
+component of chatbots and finds use in sales conversions,
+customer support, and many other areas.
