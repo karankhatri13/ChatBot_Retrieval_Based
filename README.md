@@ -10,3 +10,5 @@ uses Natural Language Processing (NLP). One of the most
 common examples of Natural Language Processing is usage in
 many organizations' end-use applications in formulating
 responses to inquiries in natural language.
+
+#Retrieval_Based
