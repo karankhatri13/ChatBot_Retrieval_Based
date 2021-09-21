@@ -12,3 +12,11 @@ many organizations' end-use applications in formulating
 responses to inquiries in natural language.
 
 #Retrieval_Based
+
+Retrieval based chatbots, employ techniques such as keyword
+matching, machine learning, and deep learning to find the most
+appropriate response. These chatbots, regardless of
+technology, solely deliver predefined responses and do not
+generate fresh output. From a database of predefined
+responses, the chatbot is trained to offer the best possible
+response. The responses are based on previously collected data.
