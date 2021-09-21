@@ -1,0 +1,1 @@
+https://techlearn-cdn.s3.amazonaws.com/bs_swiggy_chatbot/intent.json
